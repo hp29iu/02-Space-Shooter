@@ -3,18 +3,18 @@
 
 Please, Go ahead and defeat all your enemies with your weapons to save the unknown world.
 
-Forward - up arrow
-Back - down arrow
-Left - left arrow
-Right - right arrow
+<Forward - up arrow>
+<Back - down arrow>
+<Left - left arrow>
+<Right - right arrow>
 
-Weapon 1 - Q
-Weapon 2 - W
-Weapon 3 - E
-Weapon 4 - R
+<Weapon 1 - Q>
+<Weapon 2 - W>
+<Weapon 3 - E>
+<Weapon 4 - R>
 
-Pause - P
-Quit - ESC
+<Pause - P>
+<Quit - ESC>
 
 
 ## Implementation
