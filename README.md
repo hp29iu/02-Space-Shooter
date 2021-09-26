@@ -1,16 +1,28 @@
 # 02-2D-Space-Shooter
-<Project 2 - 2D Space Shooter> 25 September 2021
+<Project 2 - 2D Shooter Game> InToTheUnknown, 25 September 2021
+
+Please, Go ahead and defeat all your enemies with your weapons to save the unknown world.
+
+<Forward - up arrow>
+<Back - down arrow>
+<Left - left arrow>
+<Right - right arrow>
+
+<Weapon 1 - Q>
+<Weapon 2 - W>
+<Weapon 3 - E>
+<Weapon 4 - R>
+
+<Pause - P>
+<Quit - ESC>
 
 
 ## Implementation
 Built using Godot 3.3.3
 
-The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
+Assets provided by [kenney.nl](https://kenney.nl/assets/space-shooter-redux)
 
-Assets provided by [kenney.nl](https://kenney.nl/assets/simple-space)
-
-Explosion sprite sheets provided by [StumpyStrust](https://opengameart.org/content/explosion-sheet) and [Cuzco](https://opengameart.org/content/explosion)
-
+Audio provided by [opengameart.org](https://opengameart.org/content/through-space)
 ## References
 None
 
