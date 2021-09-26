@@ -1,10 +1,11 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Player/Players.gd" type="Script" id=1]
 [ext_resource path="res://Assets/BackGround.png" type="Texture" id=2]
 [ext_resource path="res://UI/Pause.gd" type="Script" id=3]
 [ext_resource path="res://Asteroid/Asteroids.gd" type="Script" id=4]
 [ext_resource path="res://Enemy/Enemies.gd" type="Script" id=5]
+[ext_resource path="res://Assets/through space.ogg" type="AudioStream" id=6]
 
 [node name="Game" type="Node2D"]
 
@@ -81,3 +82,7 @@ text = "(P) to RESUME
 (ESC) to QUIT"
 align = 1
 valign = 1
+
+[node name="BackgroundMusic" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 6 )
+autoplay = true
